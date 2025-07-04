@@ -29,19 +29,29 @@ The following cleaning process were carried out, they are:
 ## 🔦📈 Exploratory Data Analysis 
 ### 🔍 Key Business Questions Answered 
 EDA was carried out to answer some of these key business questions:
-1. **What is the total number of reviews per category?**
+1. ⭐ **Which products have the highest average ratings?**
+   
+2. 🌟 **Which products have the highest number of reviews?**
 
-2. **Which products have the highest number of reviews?**
+   
+3. 🈹 **How many products have a discount of 50% or more?**
 
-3. **Identify the top 5 products in terms of rating and number of reviews combined.**
+4. ⭐ **Identify the top 5 products in terms of rating and number of reviews combined.**
 
-4. **What is the total potential revenue (actual_price × rating_count) by category?**
+5. 🖇️ **How does the rating relate to the level of discount?**
 
-5. **How does the rating relate to the level of discount?**
+6. ✅ **How many products have fewer than 1,000 reviews?**
 
-6. **How many products are listed under each category?**
+7. 📦 **Which categories have products with the highest discounts?**
+8. 💵 **What is the number of unique products per price range bucket?**
 
 ## 📈📊 Data Analysis and Visual Insights
+1. **Average discount percentage by product category**
+2. **Products are listed under each category**
+3. **Total number of reviews per catcategory**
+4. **average actual price vs the discounted price base on category**
+5. **Distribution of product by ratings**
+6. **Total potential revenue by category**
 
 ## 🔎 Key insights 
 
